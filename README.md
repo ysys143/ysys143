@@ -39,6 +39,8 @@
 <br/><br/>
 <br/><br/>
 
+### Contact
+
 <a href="https://github.com/ysys143" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>&nbsp;
@@ -59,8 +61,7 @@
 </a>&nbsp;
 
 
-#### 📚기술스택📚
-
+### 기술스택
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
