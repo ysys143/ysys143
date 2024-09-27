@@ -7,10 +7,11 @@
 <br>
  <img src="https://github.com/ysys143/ysys143/blob/main/my_motto.png?raw=true" width=700 />
 <br><br/>
- 
-성장에 미친 사람 신재솔입니다.<br/><br/>
 
+성장에 미친 사람 신재솔입니다.<br/>
+데이터와 머신러닝을 통해 더 나은 의사결정을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
 
+2024.9~ 가짜연구소 All-you-need-is-RAG 러너<br/>
 2024.9~10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
 2024.9 데이터리안 SQL 데이터 분석 캠프(입문반) 수료<br/>
 2024 Google Machine Learning Bootcamp 5기<br/>
@@ -45,7 +46,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>&nbsp;
 <a href="https://socml.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white alt=blog style="margin-bottom: 5px;" />
+</a>&nbsp;
+<a href="https://www.kaggle.com/jaesolshin" target="_blank">
+<img src=https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>&nbsp;
 <a href="https://www.facebook.com/sol1917" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
