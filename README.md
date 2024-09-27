@@ -8,8 +8,12 @@
  <img src="https://github.com/ysys143/ysys143/blob/main/my_motto.png?raw=true" width=700 />
 <br><br/>
 
-성장에 미친 사람 신재솔입니다.<br/>
-데이터와 머신러닝을 통해 더 나은 의사결정을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
+🌱 성장에 미친 사람 신재솔입니다.<br/>
+📖 NLP, 프롬프팅, RAG, 감성분석, 소셜리스닝<br/>
+📫 ysys143@naver.com<br/><br/>
+
+데이터와 머신러닝을 통해 최고의 의사결정을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
+
 
 2024.9~ 가짜연구소 All-you-need-is-RAG 러너<br/>
 2024.9~10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
@@ -95,4 +99,13 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ysys143&layout=compact" />
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysys143&layout=compact)
+-->  
+</p>
 
