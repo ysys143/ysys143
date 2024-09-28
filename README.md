@@ -16,12 +16,12 @@
 데이터와 머신러닝을 통해 최고의 의사결정을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
 
 
-2024.9~ 가짜연구소 All-you-need-is-RAG 러너<br/>
-2024.9~10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
+2024.9- 가짜연구소 All-you-need-is-RAG 러너<br/>
+2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
 2024.10 Tableau 신병훈련소 25기<br/>
 2024.10 데이터리안 SQL 데이터 분석 캠프 실전반 34기 <br/>
 2024.9 데이터리안 SQL 데이터 분석 캠프 입문반 33기 수료<br/>
-2024.7~10 Google Machine Learning Bootcamp 5기<br/>
+2024.7-10 Google Machine Learning Bootcamp 5기<br/>
 2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)<br/>
 2023.12 빅데이터분석기사 취득<br/>
 2023.10 SQL개발자 취득<br/><br/>
