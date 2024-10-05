@@ -38,6 +38,11 @@
 2010 한국산업응용수학회 포스터 발표<br/>
 
 <br/><br/>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ysys143?pet-id=1" width="1200" height="120"/>
+</a>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysys143%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br/>
 
@@ -61,7 +66,6 @@
 <a href="https://www.instagram.com/roomnumber103" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>&nbsp;
-
 
 ### 기술스택
 
@@ -98,10 +102,6 @@
 <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
 
 <br/><br/>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ysys143}?pet-id=1" width="1000" height="120"/>
-</a>
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ysys143&layout=compact" />                       
 <!--
