@@ -12,6 +12,7 @@
 🌱 성장에 미친 사람 신재솔입니다.<br/>
 📖 NLP, 프롬프팅, RAG, 감성분석, 소셜리스닝<br/>
 📫 ysys143@naver.com<br/><br/>
+💼 <a href="[url](https://drive.google.com/file/d/1UDpnOrvN0_wrrphU8UkVyhQ1wSaRiiTs/view?usp=sharing)"> Check my first portfolio!</a>.
 
 데이터와 머신러닝을 통해 최고의 의사결정을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
 
