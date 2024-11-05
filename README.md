@@ -18,17 +18,17 @@
 
 2024.11 데이터넥스트레벨-4기 '그로스해킹' 참가 <br/>
 2024.9- 가짜연구소 All-you-need-is-RAG 러너<br/>
-2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
+<b>2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)</b><br/>
 2024.10 Tableau 신병훈련소 25기<br/>
 2024.10 데이터리안 SQL 데이터 분석 캠프 실전반 34기 수료<br/>
 2024.9 데이터리안 SQL 데이터 분석 캠프 입문반 33기 수료<br/>
-2024.7-10 Google Machine Learning Bootcamp 5기<br/>
-2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)<br/>
-2023.12 빅데이터분석기사 취득<br/>
+<b>2024.7-10 Google Machine Learning Bootcamp 5기</b><br/>
+<b>2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)</b><br/>
+<b>2023.12 빅데이터분석기사 취득</b><br/>
 2023.10 SQL개발자 취득<br/><br/>
 
 2022-2023 군산 미공군기지에서 군복무<br/>
-2019-2021 리츠메이칸대학 사회학연구과 석사과정 졸업<br/>
+<b>2019-2021 리츠메이칸대학 사회학연구과 석사과정 졸업</b><br/>
 2020 투명사회를 위한 정보공개센터 활동가<br/>
 2018-2020 중앙대학교 대학원 사회학과 석사과정 수료<br/>
 2012-2017 한국예술종합학교 영상이론과 졸업<br/>
