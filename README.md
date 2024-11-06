@@ -19,7 +19,7 @@
 2024.11 데이터넥스트레벨-4기 '그로스해킹' 참가 <br/>
 2024.9- 가짜연구소 All-you-need-is-RAG 러너<br/>
 <b>2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)</b><br/>
-2024.10 Tableau 신병훈련소 25기<br/>
+2024.10 Tableau 신병훈련소 25기 수료<br/>
 2024.10 데이터리안 SQL 데이터 분석 캠프 실전반 34기 수료<br/>
 2024.9 데이터리안 SQL 데이터 분석 캠프 입문반 33기 수료<br/>
 <b>2024.7-10 Google Machine Learning Bootcamp 5기</b><br/>
