@@ -20,7 +20,7 @@
 2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 <br/>
 2024.12 Snowflake Hands-On Essentials: Data Warehousing Workshop 참가 <br/>
 2024.11 KISTI 과학교육데이터센터 파이썬 데이터 분석 과정 강사 <br/>
-2024.11 PnPXAI(explainable AI) Beta Test 참가 <br/>
+2024.11 KAIST PnPXAI(explainable AI) Beta Test 참가 <br/>
 2024.11 AWS Cloud Practitioner 취득 <br/>
 2024.11 데이터넥스트레벨-4기 '그로스해킹' 참가 <br/>
 2024.9- 가짜연구소 All-you-need-is-RAG 러너<br/>
