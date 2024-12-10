@@ -16,7 +16,7 @@
 
 데이터와 머신러닝을 통해 최고의 의사결정, 최고의 솔루션을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
 
-2024.12 빅테크 해커톤 팀 AURORA(허위뉴스 탐지 XAI 프로젝트) <br/>
+2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 <br/>
 2024.11 KISTI 과학교육데이터센터 파이썬 데이터 분석 과정 강사 <br/>
 2024.11 PnPXAI(explainable AI) Beta Test 참가 <br/>
 2024.11 AWS Cloud Practitioner 취득 <br/>
