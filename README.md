@@ -14,6 +14,7 @@
 📫 ysys143@naver.com<br/>
 💼 Check <a href="https://drive.google.com/file/d/1UDpnOrvN0_wrrphU8UkVyhQ1wSaRiiTs/view?usp=sharing"> my first portfolio</a>!<br/><br/>
 
+(현) 위데이터랩 인공지능연구소 인턴 <br/>
 데이터와 머신러닝을 통해 최고의 의사결정, 최고의 솔루션을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
 
 
