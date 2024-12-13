@@ -30,9 +30,9 @@
 <b>2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)</b><br/>
 <b>2024.7-10 Google Machine Learning Bootcamp 5기</b><br/>
 <b>2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)</b><br/>
+<br/>
 <b>2023.12 빅데이터분석기사 취득</b><br/>
-2023.10 SQL개발자 취득<br/><br/>
-
+2023.10 SQL개발자 취득<br/>
 2022-2023 군산 미공군기지에서 군복무<br/>
 <b>2019-2021 리츠메이칸대학 사회학연구과 석사과정 졸업</b><br/>
 2020 투명사회를 위한 정보공개센터 활동가<br/>
