@@ -14,10 +14,9 @@
 📫 ysys143@naver.com<br/>
 💼 Check <a href="https://drive.google.com/file/d/1UDpnOrvN0_wrrphU8UkVyhQ1wSaRiiTs/view?usp=sharing"> my first portfolio</a>!<br/><br/>
 
-(현) 위데이터랩 인공지능연구소 인턴 <br/>
 데이터와 머신러닝을 통해 최고의 의사결정, 최고의 솔루션을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
 
-
+(현) 위데이터랩 인공지능연구소 인턴 <br/>
 2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 <br/>
 2024.12 Snowflake Hands-On Essentials: Data Warehousing Workshop 참가 <br/>
 2024.11 KISTI 과학교육데이터센터 파이썬 데이터 분석 과정 강사 <br/>
