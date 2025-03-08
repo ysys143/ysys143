@@ -16,6 +16,8 @@
 
 데이터와 머신러닝을 통해 최고의 의사결정, 최고의 솔루션을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
 
+Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있습니다.<br/><br/>
+
 <b>(현) 위데이터랩 인공지능연구소 연구원 </b><br/>
 <b>2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 </b><br/>
 <!-- 2024.12 Snowflake Hands-On Essentials: Data Warehousing Workshop 참가 <br/> -->
