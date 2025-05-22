@@ -14,19 +14,19 @@
 
 Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있습니다.<br/><br/>
 
-<b>(현) 위데이터랩 인공지능연구소 연구원 </b><br/>
-<b>2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 </b><br/>
+(현) 위데이터랩 인공지능연구소 연구원 <br/>
+2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 <br/>
 2024.11 KAIST PnPXAI(explainable AI) Beta Test 참가 <br/>
 2024.11 AWS Cloud Practitioner 취득 <br/>
-<b>2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)</b><br/>
-<b>2024.7-10 Google Machine Learning Bootcamp 5기</b><br/>
-<b>2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)</b><br/>
+2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
+2024.7-10 Google Machine Learning Bootcamp 5기<br/>
+2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)<br/>
 <br/>
-<b>2023.12 빅데이터분석기사 취득</b><br/>
+2023.12 빅데이터분석기사 취득<br/>
 2023.10 SQL개발자 취득<br/>
 2022-2023 군산 미공군기지에서 군복무<br/>
 <br/>
-<b>2019-2021 리츠메이칸대학 사회학연구과 석사과정 졸업</b><br/>
+2019-2021 리츠메이칸대학 사회학연구과 석사과정 졸업<br/>
 2020 투명사회를 위한 정보공개센터 활동가<br/>
 2018-2020 중앙대학교 대학원 사회학과 석사과정 수료<br/>
 2012-2017 한국예술종합학교 영상이론과 졸업<br/>
