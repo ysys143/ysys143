@@ -9,26 +9,15 @@
  <img src="https://github.com/ysys143/ysys143/blob/main/my_motto.png?raw=true" width=700 />
 <br><br/>
 
-🌱 성장에 미친 사람 신재솔입니다.<br/>
-📖 NLP, RAG, 감성분석, XAI<br/>
-📫 ysys143@naver.com<br/>
-💼 Check <a href="https://drive.google.com/file/d/1UDpnOrvN0_wrrphU8UkVyhQ1wSaRiiTs/view?usp=sharing"> my first portfolio</a>!<br/><br/>
-
-데이터와 머신러닝을 통해 최고의 의사결정, 최고의 솔루션을 만들어낼 수 있는 사람이 되고 싶습니다.<br/><br/>
+📖 Observable, Reliable, Scalable AI<br/>
+📫 ysys143@wedatalab.com<br/>
 
 Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있습니다.<br/><br/>
 
 <b>(현) 위데이터랩 인공지능연구소 연구원 </b><br/>
 <b>2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 </b><br/>
-<!-- 2024.12 Snowflake Hands-On Essentials: Data Warehousing Workshop 참가 <br/> -->
-<b>2024.11 KISTI 과학교육데이터센터 파이썬 데이터 분석 과정 강사 </b><br/>
 2024.11 KAIST PnPXAI(explainable AI) Beta Test 참가 <br/>
 2024.11 AWS Cloud Practitioner 취득 <br/>
-<!-- 2024.11 데이터넥스트레벨-4기 '그로스해킹' 참가 <br/>-->
-<!-- 2024.10 Tableau 신병훈련소 25기 수료<br/>-->
-<!-- 2024.10 데이터리안 SQL 데이터 분석 캠프 실전반 34기 수료<br/>-->
-<!-- 2024.9 데이터리안 SQL 데이터 분석 캠프 입문반 33기 수료<br/>-->
-<b>2024.9- 가짜연구소 All-you-need-is-RAG 러너</b><br/>
 <b>2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)</b><br/>
 <b>2024.7-10 Google Machine Learning Bootcamp 5기</b><br/>
 <b>2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)</b><br/>
