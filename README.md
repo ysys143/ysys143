@@ -4,11 +4,6 @@
 
 ## Hi there 👋
 
-<br>
- <img src="https://github.com/ysys143/ysys143/blob/main/sympo2.png?raw=true" width=700 /> <br>
- <img src="https://github.com/ysys143/ysys143/blob/main/my_motto.png?raw=true" width=700 />
-<br><br/>
-
 📖 Observable, Reliable, Scalable AI<br/>
 📫 ysys143@wedatalab.com<br/>
 
