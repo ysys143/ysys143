@@ -16,7 +16,6 @@ Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있
 
 (현) 위데이터랩 인공지능연구소 연구원 <br/>
 2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 <br/>
-2024.11 KAIST PnPXAI(explainable AI) Beta Test 참가 <br/>
 2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
 2024.7-10 Google Machine Learning Bootcamp 5기<br/>
 2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)<br/>
