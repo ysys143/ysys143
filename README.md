@@ -31,8 +31,6 @@ Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있
   <img src="https://render.gitanimals.org/lines/ysys143?pet-id=1" width="1200" height="120"/>
 </a>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysys143%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br/>
 
 ### Contact
 
@@ -73,7 +71,6 @@ Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ysys143&layout=compact" />                       
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysys143&layout=compact)
 -->  
