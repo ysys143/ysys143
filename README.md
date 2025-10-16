@@ -7,17 +7,28 @@
 📖 Observable, Reliable, Scalable AI<br/>
 📫 ysys143@wedatalab.com<br/>
 
-Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있습니다.<br/><br/>
+Observable, Reliable, Scalable AI System에 대해 고민하고 공부하고 있습니다.<br/>
+Alife2025에 다녀온 후 독립연구자가 되기 위해 공부 중입니다.<br/><br/>
 
 (현) 위데이터랩 인공지능연구소 연구원 <br/>
-2024.12 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 <br/>
+RAG 모니터링 솔루션 개발<br/>
+GPU Database 도입연구<br/>
+Python 데이터분석 강의 진행<br/>
+VectorDB/RAG 강의 진행<br/>
+바이브코딩 강의 진행<br/>
+AI 도입 관련 제안서 작성 및 컨설팅 진행<br/>
+한국인공지능데이터과학협회, 루나테이블, 엔터테크코리아 등에서 발표다수<br/>
+
+<br/>
+2025.7 Google Professional Machine Learning Engineer<br/>
+2024.11 AWS Certified Cloud Practitioner<br/>
+2023.12 빅데이터분석기사 취득<br/>
+2023.10 SQL개발자 취득<br/>
+<br/>
+2024.12 ICT 이노베이션 빅테크 해커톤 우수상(허위뉴스 탐지 XAI 프로젝트 AURORA) 팀장 <br/>
 2024.9-10 NIPA-Google ML 부트캠프 협력 실무 프로젝트(3기)<br/>
 2024.7-10 Google Machine Learning Bootcamp 5기<br/>
 2024.8 Deep Learning Specialization Certification(Deeplearning.Ai)<br/>
-<br/>
-2023.12 빅데이터분석기사 취득<br/>
-2023.10 SQL개발자 취득<br/>
-2022-2023 군산 미공군기지에서 군복무<br/>
 <br/>
 2019-2021 리츠메이칸대학 사회학연구과 석사과정 졸업<br/>
 2018-2020 중앙대학교 대학원 사회학과 석사과정 수료<br/>
