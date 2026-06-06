@@ -39,7 +39,9 @@ AI 도입 관련 제안서 작성 및 컨설팅 진행<br/>
 <br/><br/>
 
 <a href="https://github.com/devxb/gitanimals">
+<table><tr><td bgcolor="white">
   <img src="https://render.gitanimals.org/lines/ysys143?pet-id=1" width="1200" height="150"/>
+</td></tr></table>
 </a>
 
 
