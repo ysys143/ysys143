@@ -48,21 +48,21 @@ AI 도입 관련 제안서 작성 및 컨설팅 진행<br/>
 <a href="https://github.com/ysys143" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-< href="https://www.linkedin.com/in/jaesol-shin-4368a2238/" target="_blank">
+<a href="https://www.linkedin.com/in/jaesol-shin-4368a2238/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-< href="https://socml.tistory.com/" target="_blank">
+<a href="https://socml.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>
-< href="https://www.kaggle.com/jaesolshin" target="_blank">
+<a href="https://www.kaggle.com/jaesolshin" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-< href="https://www.facebook.com/sol1917" target="_blank">
+<a href="https://www.facebook.com/sol1917" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-< href="https://www.instagram.com/roomnumber103" target="_blank">
+<a href="https://www.instagram.com/roomnumber103" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>&nbsp;
+</a>
 
 ### 기술스택
 
