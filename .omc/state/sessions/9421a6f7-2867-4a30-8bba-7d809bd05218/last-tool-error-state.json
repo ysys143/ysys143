@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"git -C /Users/jaesolshin/Documents/GitHub/ysys143 add README.md && git -C /Users/jaesolshin/Documents/GitHub/ysys143 commit -m \\\"$(cat <<'EOF'\\nSwitch gitanimals from lines to farms view\\n...",
-  "error": "Exit code 1\nOn branch main\nYour branch is ahead of 'origin/main' by 4 commits.\n  (use \"git push\" to publish your local commits)\n\nChanges not staged for commit:\n  (use \"git add/rm <file>...\" to update what will be committed)\n  (use \"git restore <file>...\" to discard changes in working directory)\n\tdeleted:    .omc/state/agent-replay-9421a6f7-2867-4a30-8bba-7d809bd05218.jsonl\n\tdeleted:    .omc/state/sessions/dadc0441-ddb5-4b9b-9a4f-408c942e7d06/session-started.json\n\nUntracked files:\n  (use \"git add...",
-  "timestamp": "2026-06-06T14:55:17.795Z",
+  "tool_input_preview": "{\"command\":\"git add README.md && git commit -m \\\"Update tech stack badges to reflect current projects\\\"\",\"description\":\"Stage README and commit\"}",
+  "error": "Exit code 1\nOn branch main\nYour branch is ahead of 'origin/main' by 14 commits.\n  (use \"git push\" to publish your local commits)\n\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git restore <file>...\" to discard changes in working directory)\n\tmodified:   .omc/state/sessions/9421a6f7-2867-4a30-8bba-7d809bd05218/pre-tool-advisory-throttle.json\n\nUntracked files:\n  (use \"git add <file>...\" to include in what will be committed)\n\t.cwf/sessions/260607...",
+  "timestamp": "2026-06-06T16:18:15.089Z",
   "retry_count": 1
 }
